@@ -138,7 +138,7 @@
         }
 
         #endregion
-
+            
         private MaterialSkin.Controls.MaterialRaisedButton save_btn;
         private MaterialSkin.Controls.MaterialRaisedButton back_btn;
         private System.Windows.Forms.TextBox editor_tbx;
